@@ -1,0 +1,14 @@
+SIMULATION_TYPE        0
+RESTART                0
+TEMP                   2.02
+NPART                  108
+RHO                    0.8
+R_CUT                  2.5
+DELTA                  0.001
+NBLOCKS                100
+NSTEPS                 2000
+
+ENDINPUT
+
+Tempo di esecuzione: 3.91 minuti
+
