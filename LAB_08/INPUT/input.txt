@@ -1,0 +1,24 @@
+TYPE                1
+STEP_NUMBER         2000
+BLOCK_NUMBER        100
+BLOCK_NUMBER_SA     20
+RATE                4.0
+RATE_PARAM          0.82
+N_STEP_T_START      1000
+START_TEMPERATURE   1.5
+COOLING             1.01
+END_TEMPERATURE     0.03
+NUM_BINS            100
+
+ENDINPUT
+
+TYPE: -1: compute energy with random value of parameters/ 0: ONLY OPTIMIZATION/ 1: ONLY SIMULATION/ 2: BOTH OPTIMIZATION AND SIMULATION. Always at first row.
+STEP_NUMBER: number of step in each block of the energy computing
+BLOCK_NUMBER: number of block for data blocking
+RATE: length of the rw step in the probability wave function step (used for computig energy, to propose new points) 4.0 for optiml param, 2.0 for mu = 1.2, sigma = 0.5, 4.2 with optimal parameters mu = 0.861561, sigma = 0.621124
+RATE_PARAM: length of the rw step in the optimizing process (used to propose new parameters) 0.82 good to have 0.59 acceptance at the start temperature and reach 0.2 acceptance at final temperature, the parameters of the spatial step is 2.0 to have a maximum acceptance of 0.77 and a minimum of 0.48 during the optimization process
+N_STEP_T_START: Numebr of metropolis step in the optimization process at the initial temperature
+START_TEMPERATURE: temperature at which the optimization process start
+COOLING: coefficient that change temperature during optimization
+END_TEMPERATURE: final temperature of the optimization process
+NUM_BINS: numebr of bins used to sample pdf
