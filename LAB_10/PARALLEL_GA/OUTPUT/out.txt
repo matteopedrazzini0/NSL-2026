@@ -1,0 +1,16 @@
+[rank 0] Avanzamento: 0 blocchi
+[rank 0] Avanzamento: 10 blocchi
+[rank 0] Avanzamento: 20 blocchi
+[rank 0] Avanzamento: 30 blocchi
+Tempo di esecuzione del rank 3: 11.1462min
+Tempo di esecuzione del rank 4: 11.1462min
+Tempo di esecuzione del rank 5: 11.1462min
+Tempo di esecuzione del rank 6: 11.1462min
+Tempo di esecuzione del rank 7: 11.1462min
+Tempo di esecuzione del rank 8: 11.1462min
+Tempo di esecuzione del rank 9: 11.1462min
+Tempo di esecuzione del rank 10: 11.1462min
+Tempo di esecuzione del rank 1: 11.1462min
+Tempo di esecuzione del rank 2: 11.1462min
+Best cost function from rank 0: 65.9877
+Tempo di esecuzione del rank 0: 11.1464min

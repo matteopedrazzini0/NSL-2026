@@ -1,0 +1,8 @@
+MAX_TEMPERATURE    0.8
+MIN_TEMPERATURE    0.1
+N_MIGR             1000
+N_STEP_T_MAX       10000
+TYPE               cap_prov_ita.dat
+N_MUT_PER_EV       1
+
+ENDINPUT

@@ -1,0 +1,25 @@
+Sono il rank 8 e ho un beta di: 0.96394 E un numero di step pari a: 100000
+Sono il rank 9 e ho un beta di: 0.82365 E un numero di step pari a: 100000
+Sono il rank 10 e ho un beta di: 0.714286 E un numero di step pari a: 100000
+Sono il rank 7 e ho un beta di: 1.13349 E un numero di step pari a: 100000
+Sono il rank 1 e ho un beta di: 7.84974 E un numero di step pari a: 100000
+Sono il rank 2 e ho un beta di: 5.63345 E un numero di step pari a: 100000
+Sono il rank 3 e ho un beta di: 3.95345 E un numero di step pari a: 100000
+Sono il rank 0 e ho un beta di: 10 E un numero di step pari a: 100000
+Sono il rank 4 e ho un beta di: 2.73345 E un numero di step pari a: 100000
+Sono il rank 6 e ho un beta di: 1.33345 E un numero di step pari a: 100000
+Sono il rank 5 e ho un beta di: 1.88345 E un numero di step pari a: 100000
+Tempo di esecuzione del rank 6: 4.65965min
+Tempo di esecuzione del rank 5: 4.65965min
+Tempo di esecuzione del rank 4: 4.65983min
+Tempo di esecuzione del rank 3: 4.65984min
+Tempo di esecuzione del rank 1: 4.65984min
+Tempo di esecuzione del rank 2: 4.65984min
+Tempo di esecuzione del rank 7: 4.65983min
+Tempo di esecuzione del rank 8: 4.65984min
+Tempo di esecuzione del rank 10: 4.65984min
+Tempo di esecuzione del rank 9: 4.65984min
+Best cost function from rank 0: 67.1318
+Tempo di esecuzione del rank 0: 4.65993min
+
+[10, 7.84974, 5.63345, 3.95345, 2.73345, 1.88345, 1.33345, 1.13349, 0.96394, 0.82365, 0.714286]
